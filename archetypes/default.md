@@ -17,3 +17,16 @@ categories:
 -
 image:
 ---
+
+
+{{< featuredImage >}}
+
+
+{{< alert theme="info" dir="ltr" >}}
+**720p h265** 
+{{< /alert >}}
+
+{{< button href="" >}} Mirrored{{< /button >}}
+
+
+{{< button href="" >}} Gdrive{{< /button >}}

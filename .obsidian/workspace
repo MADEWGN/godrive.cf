@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/en/Tsuki-to-Laika-to-Nosferatu/Episode-07.md",
+            "file": "content/en/takt-op-destiny/Episode-07.md",
             "mode": "source"
           }
         }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/en/Tsuki-to-Laika-to-Nosferatu/Episode-07.md",
+            "file": "content/en/takt-op-destiny/Episode-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,14 +73,15 @@
   },
   "active": "989dcad3b55006c8",
   "lastOpenFiles": [
-    "content/en/Tsuki-to-Laika-to-Nosferatu/Episode-07.md",
-    "content/en/Mushoku-Tensei/Episode-18.md",
+    "content/en/takt-op-destiny/Episode-07.md",
     "archetypes/default.md",
+    "archetypes/archive.md",
+    "content/en/Mushoku-Tensei/Episode-18.md",
+    "content/en/Tsuki-to-Laika-to-Nosferatu/Episode-07.md",
     "content/en/_index.md",
     "content/en/anime/_index.md",
     "content/en/posts/emoji-support.md",
     "content/en/posts/_index.md",
-    "content/en/posts/markdown-syntax.md",
-    "content/en/posts/post-pertama.md"
+    "content/en/posts/markdown-syntax.md"
   ]
 }
