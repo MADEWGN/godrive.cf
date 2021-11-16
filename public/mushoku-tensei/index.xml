@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Mushoku Tensei on Godrive</title>
+    <link>https://godrive.cf/mushoku-tensei/</link>
+    <description>Recent content in Mushoku Tensei on Godrive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 15 Nov 2021 03:57:30 +0000</lastBuildDate>
+    
+        <atom:link href="https://godrive.cf/mushoku-tensei/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Mushoku Tensei Episode 18 h265</title>
+        <link>https://godrive.cf/mushoku-tensei/episode-18/</link>
+        <pubDate>Mon, 15 Nov 2021 03:52:45 +0000</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Mon, 15 Nov 2021 03:52:45 +0000</atom:modified>
+        <guid>https://godrive.cf/mushoku-tensei/episode-18/</guid>
+        <description>  720p Mirrored   Gdrive   </description>
+        
+        <dc:creator>Made Wiguna</dc:creator>
+        <media:content url="https://godrive.cf/https://telegra.ph/file/b40d313c79b5246c7ff2b.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

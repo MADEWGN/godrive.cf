@@ -1,0 +1,86 @@
+{
+  "main": {
+    "id": "01c413ad492274cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "989dcad3b55006c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/en/Tsuki-to-Laika-to-Nosferatu/Episode-07.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c749e7c96d0d7282",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e70bb90133b8fee1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "635eb44f6153dec8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2c8fb98f66c2af5f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c83a06e2b75e6e6b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/en/Tsuki-to-Laika-to-Nosferatu/Episode-07.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "989dcad3b55006c8",
+  "lastOpenFiles": [
+    "content/en/Tsuki-to-Laika-to-Nosferatu/Episode-07.md",
+    "content/en/Mushoku-Tensei/Episode-18.md",
+    "archetypes/default.md",
+    "content/en/_index.md",
+    "content/en/anime/_index.md",
+    "content/en/posts/emoji-support.md",
+    "content/en/posts/_index.md",
+    "content/en/posts/markdown-syntax.md",
+    "content/en/posts/post-pertama.md"
+  ]
+}
